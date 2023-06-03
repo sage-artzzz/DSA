@@ -1,7 +1,5 @@
 def main():
-    # YOUR CODE GOES HERE
-    # Please take input and print output to standard input/output (stdin/stdout)
-    # E.g. 'input()/raw_input()' for input & 'print' for output
+   
     a = list(map(int,input().split()))
     size = a[0]
     a = a[1:]
